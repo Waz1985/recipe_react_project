@@ -1,0 +1,7 @@
+@font-face {
+    font-family: RockoFLF;
+    src: url('../fonts/RockoFLF.ttf') format('ttf'),
+    url('../fonts/RockoFLF-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
